@@ -1,0 +1,7 @@
+Task 17: Monthly Sales Trend
+Dataset rows: 1250
+Period: 2023-01-01 to 2025-12-31
+Months summarized: 36
+Total sales: ₹750,860.28
+Average monthly sales: ₹20,857.23
+Dataset note: synthetic practice data, not official Superstore data.
